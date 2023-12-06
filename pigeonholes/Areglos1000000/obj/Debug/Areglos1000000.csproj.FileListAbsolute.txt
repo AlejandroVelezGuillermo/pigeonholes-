@@ -1,0 +1,8 @@
+C:\Users\soned\Videos\programas VS\Areglos1000000\Areglos1000000\obj\Debug\Areglos1000000.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\Areglos1000000\Areglos1000000\obj\Debug\Areglos1000000.csproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\programas VS\Areglos1000000\Areglos1000000\obj\Debug\Areglos1000000.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\Areglos1000000\Areglos1000000\bin\Debug\Areglos1000000.exe.config
+C:\Users\soned\Videos\programas VS\Areglos1000000\Areglos1000000\bin\Debug\Areglos1000000.exe
+C:\Users\soned\Videos\programas VS\Areglos1000000\Areglos1000000\bin\Debug\Areglos1000000.pdb
+C:\Users\soned\Videos\programas VS\Areglos1000000\Areglos1000000\obj\Debug\Areglos1000000.exe
+C:\Users\soned\Videos\programas VS\Areglos1000000\Areglos1000000\obj\Debug\Areglos1000000.pdb
